@@ -18,3 +18,4 @@ def get_news(publication="bbc"):
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
+Be sure to use SSH to interact with github by copying the public key component to your github account profile
